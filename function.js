@@ -5,8 +5,14 @@ function wangdi(a, b){
 	console.log(a);
 	console.log(b);
 	console.log(a + "+" + b + ": " + a + b);
-	console.log(a * b);
-
-	wangdi(2, 3);
-	wangdi(3, 4);
 }
+
+console.log(wangdi(1, 3));
+
+var a = 3;
+var b = 4;
+
+
+
+wangdi(3, 4);
+wangdi(4, 5);
