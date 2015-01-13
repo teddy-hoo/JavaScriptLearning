@@ -7,12 +7,11 @@ function wangdi(a, b){
 	console.log(a + "+" + b + ": " + a + b);
 }
 
+var wangdi = function(){};
+
 console.log(wangdi(1, 3));
 
 var a = 3;
 var b = 4;
 
-
-
 wangdi(3, 4);
-wangdi(4, 5);
